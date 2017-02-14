@@ -15,6 +15,12 @@
 
 w3school ：<a href="http://www.w3school.com.cn/html5/index.asp">http://www.w3school.com.cn/html5/index.asp</a>
 
+JS语法升级(ES6)：
+
+《ECMAScript 6 入门》
+
+<a href="http://es6.ruanyifeng.com/">http://es6.ruanyifeng.com/</a>
+
 视频教程：
 
 《HTML5开发》
